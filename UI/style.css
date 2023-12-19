@@ -15,6 +15,7 @@ table {
   margin-top: 20px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
+  table-align: center;
 }
 
 th, td {
